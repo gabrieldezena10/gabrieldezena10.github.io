@@ -1,0 +1,28 @@
+h1 {
+  text-align: center;
+}
+
+img.redes{
+    display: block;
+    max-width: 50px;
+}
+
+body {
+  font-family: "Quicksand", sans-serif;
+  background: url("Imagens Portfolio/bg.jpg") no-repeat top center;
+    background-attachment: fixed;
+    background-size: cover;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    height: 100vh;
+}
+
+.box{
+    background: rgb(230, 230, 230);
+    padding: 80px;
+    box-shadow: 2px 2px 16px rgba(0, 0, 0, 0.16);
+}
+#Alinhamento {
+  text-align: left;
+}
