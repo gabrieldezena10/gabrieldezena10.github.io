@@ -1,3 +1,7 @@
+
+# gabrieldezena10.github.io/Projeto - Lessons Learned/
+
+
 ### Termos e acordos
 
 Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
